@@ -1,0 +1,5 @@
+{
+  "database": {
+    "dsn": "root:12345678@tcp(localhost:3306)/entry_task"
+  }
+}
